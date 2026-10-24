@@ -112,8 +112,4 @@ This notebook is intended for students, self-learners, and practitioners who wan
 
 ---
 
-## Final Thought
 
-The journey from linear regression to neural networks is often presented as a sequence of increasingly powerful algorithms. This notebook presents it as a sequence of increasingly flexible assumptions. Linear regression assumes a straight line. The perceptron assumes linear separability. Logistic regression assumes a probabilistic linear boundary. Feature engineering relaxes those assumptions by hand. Neural networks relax them by learning.
-
-That is the real lesson of this project: **machine learning is not only about fitting models. It is about understanding the assumptions that make fitting possible, and recognizing when those assumptions no longer hold.**
